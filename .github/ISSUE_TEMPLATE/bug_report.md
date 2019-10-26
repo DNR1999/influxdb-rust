@@ -11,4 +11,12 @@ about: Report a problem with the library
 
 Steps to Reproduce:
 
-1. 2.
+---
+name: Bbb report
+about: Report a problem with the library
+---
+<!-- Please search engine in the home brohhhh hahaha if they're closed. -->
+
+-   Rust Version:
+-   Runtime version (e.g. Jamaica):
+-   OS Version:
